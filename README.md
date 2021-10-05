@@ -13,11 +13,7 @@ Here, the Google colab is prepared in 4 different steps:
       a)On an average basis,How many people in total are there in a single booking?
       b)How many Bookings were cancelled with respect to each hotel?
       c)Number of special requests made by customers in their booking .... and many more.
-4) Data Modelling
-
-
-In the Data Modelling, I have trained the data using following Models:
-a) Random Forest Classifier
-b) Random Forest Regressor
-
+4) Data Modelling: In the Data Modelling, I have trained the data using following Models:
+   a) Random Forest Classifier
+   b) Random Forest Regressor
 And the precision or accuracy is about 83% in both the models and have displayed the confusion matrix in both the cases.
