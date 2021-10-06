@@ -24,8 +24,12 @@ Here, the Google colab is prepared in 4 different steps:
       
 4) Data Modelling: In the Data Modelling, I have trained the data using following Models:
   
-  a) Random Forest Classifier
+       a) Random Forest Classifier
   
-  b) Random Forest Regressor
+       b) Random Forest Regressor
   
 And the precision or accuracy is about 83% in both the models and have displayed the confusion matrix in both the cases.
+
+Data Cleaning in OpenRefine:
+
+So, I have atttached a PDF document containing the screenshots of each step of Data Cleaning performed in OpenRefine and  it also contains its description and steps wherever needed.
