@@ -1,6 +1,9 @@
 # CMPE-255-Data-Cleaning-Assignment
+
 Subject:- CMPE 255 Sec 49
+
 Name: Nevil Shah
+
 SJSU ID:- 015964975
 
 Dataset :- https://www.kaggle.com/jessemostipak/hotel-booking-demand
